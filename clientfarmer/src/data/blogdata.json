@@ -1,0 +1,178 @@
+{
+  "blogPosts": [
+    {
+      "category": "soil",
+      "title": "Understanding Clay Soil Management",
+      "content": "Clay soil requires special attention. Add organic matter regularly to improve structure. Avoid working with wet clay soil as it compacts easily. Gypsum can help improve drainage and workability.",
+      "readTime": "5 min",
+      "image": "../src/assets/soil1.jpg"
+    },
+    {
+      "category": "soil",
+      "title": "Sandy Soil Improvement Techniques",
+      "content": "Sandy soil benefits from regular compost addition. Consider adding clay minerals to improve water retention. Mulching helps prevent water loss. Choose drought-resistant crops initially.",
+      "readTime": "6 min",
+      "image": "../src/assets/soil2.jpg"
+    },
+    {
+      "category": "soil",
+      "title": "Loamy Soil: The Perfect Balance",
+      "content": "Maintain loamy soil's excellent properties through regular organic matter addition. Monitor pH levels. Practice crop rotation to maintain nutrient balance. Avoid over-tilling.",
+      "readTime": "4 min",
+      "image": "../src/assets/soil3.jpg"
+    },
+    {
+      "category": "tips",
+      "title": "Crop Rotation Strategies",
+      "content": "Alternate between legumes and heavy feeders. Plan 3-4 year rotation cycles. Consider market demand in rotation planning. Include cover crops in rotation plans.",
+      "readTime": "7 min",
+      "image": "../src/assets/tips1.jpg"
+    },
+    {
+      "category": "tips",
+      "title": "Natural Pest Control Methods",
+      "content": "Introduce beneficial insects like ladybugs. Plant companion crops that repel pests. Use neem oil for organic pest control. Maintain field hygiene to prevent pest buildup.",
+      "readTime": "5 min",
+      "image": "../src/assets/tips2.jpg"
+    },
+    {
+      "category": "tips",
+      "title": "Water Conservation Techniques",
+      "content": "Install drip irrigation systems. Use soil moisture sensors. Time watering for early morning or evening. Collect rainwater for irrigation use.",
+      "readTime": "6 min",
+      "image": "../src/assets/tips3.jpg"
+    },
+    {
+      "category": "market",
+      "title": "Understanding Market Seasonality",
+      "content": "Track price trends across seasons. Plan harvests for peak demand periods. Build relationships with wholesale buyers. Consider storage options for better timing.",
+      "readTime": "8 min",
+      "image": "../src/assets/market1.jpg"
+    },
+    {
+      "category": "market",
+      "title": "Direct Marketing Strategies",
+      "content": "Explore farmers' markets opportunities. Build an online presence. Consider CSA programs. Develop value-added products for higher margins.",
+      "readTime": "6 min",
+      "image": "../src/assets/market2.jpg"
+    },
+    {
+      "category": "market",
+      "title": "Export Market Opportunities",
+      "content": "Research international market requirements. Obtain necessary certifications. Connect with export agencies. Understand shipping and storage requirements.",
+      "readTime": "7 min",
+      "image": "../src/assets/market3.jpg"
+    },
+    {
+      "category": "soil",
+      "title": "pH Management in Agriculture",
+      "content": "Regular soil testing for pH levels. Use lime for acidic soils. Apply sulfur for alkaline soils. Choose crops suitable for your soil pH.",
+      "readTime": "5 min",
+      "image": "../src/assets/soil4.jpg"
+    },
+    {
+      "category": "tips",
+      "title": "Organic Farming Transition",
+      "content": "Plan 3-year transition period. Build soil health naturally. Learn organic pest management. Develop organic market connections.",
+      "readTime": "8 min",
+      "image": "../src/assets/tips4.jpg"
+    },
+    {
+      "category": "market",
+      "title": "Value-Added Products",
+      "content": "Process crops for higher margins. Develop unique products. Build local brand recognition. Understand food safety requirements.",
+      "readTime": "6 min",
+      "image": "../src/assets/market1.jpg"
+    }
+  ],
+  "guidelines": [
+    {
+      "title": "Soil Health Management",
+      "points": [
+        "Regular soil testing every 6 months",
+        "Maintain organic matter content above 5%",
+        "Practice minimum tillage when possible",
+        "Use cover crops during off-seasons",
+        "Monitor soil microbial activity",
+        "Implement crop rotation plans"
+      ]
+    },
+    {
+      "title": "Water Management",
+      "points": [
+        "Install efficient irrigation systems",
+        "Monitor soil moisture levels regularly",
+        "Practice water harvesting during rainy seasons",
+        "Use mulching to reduce water evaporation",
+        "Maintain irrigation equipment",
+        "Schedule watering based on crop needs"
+      ]
+    },
+    {
+      "title": "Pest Management",
+      "points": [
+        "Regular crop monitoring for early detection",
+        "Use integrated pest management approaches",
+        "Maintain field hygiene",
+        "Encourage beneficial insects",
+        "Keep detailed pest outbreak records",
+        "Use resistant varieties when available"
+      ]
+    },
+    {
+      "title": "Nutrient Management",
+      "points": [
+        "Follow soil test recommendations",
+        "Time fertilizer applications properly",
+        "Use organic amendments when possible",
+        "Monitor plant nutrient deficiency signs",
+        "Calculate fertilizer requirements accurately",
+        "Consider foliar feeding when needed"
+      ]
+    },
+    {
+      "title": "Harvest Management",
+      "points": [
+        "Time harvests for optimal maturity",
+        "Ensure proper handling procedures",
+        "Clean and maintain harvest equipment",
+        "Train workers in best practices",
+        "Plan for efficient transportation",
+        "Minimize post-harvest losses"
+      ]
+    },
+    {
+      "title": "Market Preparation",
+      "points": [
+        "Grade products properly",
+        "Use appropriate packaging",
+        "Maintain cold chain where needed",
+        "Keep detailed sales records",
+        "Build relationships with buyers",
+        "Monitor market prices regularly"
+      ]
+    },
+    {
+      "title": "Equipment Maintenance",
+      "points": [
+        "Regular equipment inspection",
+        "Timely repairs and maintenance",
+        "Keep maintenance records",
+        "Train operators properly",
+        "Store equipment correctly",
+        "Update equipment as needed"
+      ]
+    },
+    {
+      "title": "Climate Adaptation",
+      "points": [
+        "Monitor weather forecasts",
+        "Have contingency plans ready",
+        "Use climate-resistant varieties",
+        "Implement protective measures",
+        "Maintain emergency supplies",
+        "Join farmer weather networks"
+      ]
+    }
+  ]
+}

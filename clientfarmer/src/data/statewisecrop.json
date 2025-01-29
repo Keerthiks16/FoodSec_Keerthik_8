@@ -1,0 +1,441 @@
+{
+  "lastUpdated": "2025-01-29",
+  "states": [
+    {
+      "name": "Punjab",
+      "weather": {
+        "temperature": {
+          "current": 28,
+          "min": 22,
+          "max": 32,
+          "unit": "celsius"
+        },
+        "humidity": {
+          "morning": 65,
+          "afternoon": 55,
+          "evening": 60,
+          "unit": "percentage"
+        },
+        "wind": {
+          "speed": 15,
+          "direction": "NW",
+          "unit": "kmph"
+        },
+        "uvIndex": {
+          "value": 7,
+          "category": "High",
+          "scale": "0-11"
+        },
+        "rainfall": {
+          "monthly": 35,
+          "annual": 720,
+          "unit": "mm"
+        }
+      },
+      "marketAnalysis": {
+        "monthlyPrices": [
+          {
+            "month": "January",
+            "averagePrice": 2200,
+            "priceChange": "+3.8",
+            "tradingVolume": 14000
+          },
+          {
+            "month": "February",
+            "averagePrice": 2400,
+            "priceChange": "+9.1",
+            "tradingVolume": 16000
+          },
+          {
+            "month": "March",
+            "averagePrice": 2700,
+            "priceChange": "+12.5",
+            "tradingVolume": 17500
+          },
+          {
+            "month": "April",
+            "averagePrice": 2500,
+            "priceChange": "-7.4",
+            "tradingVolume": 15500
+          },
+          {
+            "month": "May",
+            "averagePrice": 2800,
+            "priceChange": "+12.0",
+            "tradingVolume": 18000
+          }
+        ],
+        "topCrops": [
+          {
+            "name": "Wheat",
+            "demandIndex": 98,
+            "marketPrice": 2300,
+            "growth": "+18%",
+            "exportPotential": "Very High"
+          },
+          {
+            "name": "Rice",
+            "demandIndex": 92,
+            "marketPrice": 2600,
+            "growth": "+12%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Cotton",
+            "demandIndex": 85,
+            "marketPrice": 5400,
+            "growth": "+7%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Maize",
+            "demandIndex": 80,
+            "marketPrice": 1800,
+            "growth": "+5%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Sugarcane",
+            "demandIndex": 76,
+            "marketPrice": 2500,
+            "growth": "+4%",
+            "exportPotential": "Low"
+          }
+        ],
+        "marketTrends": {
+          "overallGrowth": "+10.2%",
+          "tradingVolume": "142000 tons",
+          "exportValue": "₹920 million",
+          "importValue": "₹280 million"
+        }
+      }
+    },
+    {
+      "name": "Maharashtra",
+      "weather": {
+        "temperature": {
+          "current": 32,
+          "min": 24,
+          "max": 35,
+          "unit": "celsius"
+        },
+        "humidity": {
+          "morning": 75,
+          "afternoon": 65,
+          "evening": 70,
+          "unit": "percentage"
+        },
+        "wind": {
+          "speed": 12,
+          "direction": "SW",
+          "unit": "kmph"
+        },
+        "uvIndex": {
+          "value": 8,
+          "category": "Very High",
+          "scale": "0-11"
+        },
+        "rainfall": {
+          "monthly": 45,
+          "annual": 850,
+          "unit": "mm"
+        }
+      },
+      "marketAnalysis": {
+        "monthlyPrices": [
+          {
+            "month": "January",
+            "averagePrice": 2500,
+            "priceChange": "+5.2",
+            "tradingVolume": 15000
+          },
+          {
+            "month": "February",
+            "averagePrice": 2800,
+            "priceChange": "+12.0",
+            "tradingVolume": 17500
+          },
+          {
+            "month": "March",
+            "averagePrice": 2600,
+            "priceChange": "-7.1",
+            "tradingVolume": 16000
+          },
+          {
+            "month": "April",
+            "averagePrice": 2900,
+            "priceChange": "+11.5",
+            "tradingVolume": 18000
+          },
+          {
+            "month": "May",
+            "averagePrice": 3100,
+            "priceChange": "+6.9",
+            "tradingVolume": 19500
+          }
+        ],
+        "topCrops": [
+          {
+            "name": "Soybean",
+            "demandIndex": 95,
+            "marketPrice": 4200,
+            "growth": "+15%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Cotton",
+            "demandIndex": 88,
+            "marketPrice": 5600,
+            "growth": "+8%",
+            "exportPotential": "Very High"
+          },
+          {
+            "name": "Sugarcane",
+            "demandIndex": 82,
+            "marketPrice": 2800,
+            "growth": "+5%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Wheat",
+            "demandIndex": 78,
+            "marketPrice": 2200,
+            "growth": "+3%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Rice",
+            "demandIndex": 75,
+            "marketPrice": 2400,
+            "growth": "+4%",
+            "exportPotential": "High"
+          }
+        ],
+        "marketTrends": {
+          "overallGrowth": "+8.5%",
+          "tradingVolume": "125000 tons",
+          "exportValue": "₹850 million",
+          "importValue": "₹320 million"
+        }
+      }
+    },
+    {
+      "name": "Uttar Pradesh",
+      "weather": {
+        "temperature": {
+          "current": 30,
+          "min": 23,
+          "max": 34,
+          "unit": "celsius"
+        },
+        "humidity": {
+          "morning": 70,
+          "afternoon": 60,
+          "evening": 65,
+          "unit": "percentage"
+        },
+        "wind": {
+          "speed": 10,
+          "direction": "SE",
+          "unit": "kmph"
+        },
+        "uvIndex": {
+          "value": 9,
+          "category": "Very High",
+          "scale": "0-11"
+        },
+        "rainfall": {
+          "monthly": 40,
+          "annual": 780,
+          "unit": "mm"
+        }
+      },
+      "marketAnalysis": {
+        "monthlyPrices": [
+          {
+            "month": "January",
+            "averagePrice": 2300,
+            "priceChange": "+4.5",
+            "tradingVolume": 16500
+          },
+          {
+            "month": "February",
+            "averagePrice": 2600,
+            "priceChange": "+13.0",
+            "tradingVolume": 18000
+          },
+          {
+            "month": "March",
+            "averagePrice": 2800,
+            "priceChange": "+7.7",
+            "tradingVolume": 19000
+          },
+          {
+            "month": "April",
+            "averagePrice": 2650,
+            "priceChange": "-5.4",
+            "tradingVolume": 17500
+          },
+          {
+            "month": "May",
+            "averagePrice": 2900,
+            "priceChange": "+9.4",
+            "tradingVolume": 20000
+          }
+        ],
+        "topCrops": [
+          {
+            "name": "Sugarcane",
+            "demandIndex": 96,
+            "marketPrice": 2900,
+            "growth": "+16%",
+            "exportPotential": "Very High"
+          },
+          {
+            "name": "Wheat",
+            "demandIndex": 90,
+            "marketPrice": 2400,
+            "growth": "+10%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Rice",
+            "demandIndex": 87,
+            "marketPrice": 2500,
+            "growth": "+8%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Potato",
+            "demandIndex": 82,
+            "marketPrice": 1500,
+            "growth": "+6%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Maize",
+            "demandIndex": 78,
+            "marketPrice": 1900,
+            "growth": "+5%",
+            "exportPotential": "Medium"
+          }
+        ],
+        "marketTrends": {
+          "overallGrowth": "+9.8%",
+          "tradingVolume": "135000 tons",
+          "exportValue": "₹880 million",
+          "importValue": "₹300 million"
+        }
+      }
+    },
+    {
+      "name": "Gujarat",
+      "weather": {
+        "temperature": {
+          "current": 33,
+          "min": 25,
+          "max": 36,
+          "unit": "celsius"
+        },
+        "humidity": {
+          "morning": 68,
+          "afternoon": 58,
+          "evening": 63,
+          "unit": "percentage"
+        },
+        "wind": {
+          "speed": 18,
+          "direction": "W",
+          "unit": "kmph"
+        },
+        "uvIndex": {
+          "value": 8,
+          "category": "Very High",
+          "scale": "0-11"
+        },
+        "rainfall": {
+          "monthly": 30,
+          "annual": 650,
+          "unit": "mm"
+        }
+      },
+      "marketAnalysis": {
+        "monthlyPrices": [
+          {
+            "month": "January",
+            "averagePrice": 2400,
+            "priceChange": "+4.8",
+            "tradingVolume": 15500
+          },
+          {
+            "month": "February",
+            "averagePrice": 2700,
+            "priceChange": "+12.5",
+            "tradingVolume": 17000
+          },
+          {
+            "month": "March",
+            "averagePrice": 2500,
+            "priceChange": "-7.4",
+            "tradingVolume": 16000
+          },
+          {
+            "month": "April",
+            "averagePrice": 2800,
+            "priceChange": "+12.0",
+            "tradingVolume": 18500
+          },
+          {
+            "month": "May",
+            "averagePrice": 3000,
+            "priceChange": "+7.1",
+            "tradingVolume": 19000
+          }
+        ],
+        "topCrops": [
+          {
+            "name": "Cotton",
+            "demandIndex": 94,
+            "marketPrice": 5800,
+            "growth": "+17%",
+            "exportPotential": "Very High"
+          },
+          {
+            "name": "Groundnut",
+            "demandIndex": 89,
+            "marketPrice": 4500,
+            "growth": "+11%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Castor",
+            "demandIndex": 84,
+            "marketPrice": 3800,
+            "growth": "+8%",
+            "exportPotential": "High"
+          },
+          {
+            "name": "Wheat",
+            "demandIndex": 79,
+            "marketPrice": 2300,
+            "growth": "+5%",
+            "exportPotential": "Medium"
+          },
+          {
+            "name": "Bajra",
+            "demandIndex": 75,
+            "marketPrice": 2000,
+            "growth": "+4%",
+            "exportPotential": "Medium"
+          }
+        ],
+        "marketTrends": {
+          "overallGrowth": "+9.5%",
+          "tradingVolume": "128000 tons",
+          "exportValue": "₹950 million",
+          "importValue": "₹290 million"
+        }
+      }
+    }
+  ]
+}
