@@ -29,7 +29,7 @@ function Navbar() {
           {/* Logo */}
           <div className="flex items-center gap-4">
             <img src={Image} alt="Logo" className="h-10 w-auto" />
-            <span className="text-2xl font-bold text-green-600">AaharSetu</span>
+            <span className="text-2xl font-bold text-green-600"> AharSetu</span>
           </div>
 
           {/* Desktop Menu */}

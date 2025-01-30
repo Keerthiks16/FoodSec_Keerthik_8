@@ -7,26 +7,25 @@ import WaterConservationBlog from "./components/WaterConservationBlog";
 import PestControlBlog from "./components/PestControlBlog";
 import FarmerValidationForm from "./components/FarmerValidationForm";
 import stateData from "./data/statewisecrop.json";
+import Blog from "./pages/Blog";
+import Navbar from "./components/Navbar";
+import FarmerRetailerNetwork from "./components/FarmerRetailerNetwork";
+import FarmerAuthPortal from "./components/FarmerAuthPortal";
+import CropRecommendation from "./pages/CropRecommendation";  // Import CropRecommendation
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <Router>
+      <Navbar />
       <Routes>
-        <Route
-          path="/dashboard"
-          element={
-            <>
-              <Dashboard stateData={stateData} />
-            </>
-          }
-        />
-        <Route path="/" element={<SustainableFarmingGuides />} />
-        <Route path="/soil-health" element={<SoilHealthBlog />} />
-        <Route path="/water-health" element={<WaterConservationBlog />} />
-        <Route path="/pest-health" element={<PestControlBlog />} />
+        <Route path="/" element={<Dashboard stateData={stateData} />} />
+        <Route path="/blogs" element={<Blog />} />
+        <Route path="/connect" element={<FarmerRetailerNetwork />} />
         <Route path="/farmer-validation" element={<FarmerValidationForm />} />
+        <Route path="/FarmerAuthPortal" element={<FarmerAuthPortal />} />
+        <Route path="/crop-recommendation" element={<CropRecommendation />} />  {/* Add route for CropRecommendation */}
       </Routes>
     </Router>
   );

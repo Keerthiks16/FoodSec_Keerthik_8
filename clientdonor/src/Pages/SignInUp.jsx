@@ -87,15 +87,15 @@ const SignUpIn = () => {
               insights, real-time weather updates, and connect with agricultural
               experts to maximize your crop yield.
             </p>
-            <Link to={"/Recipient/RecipientSignUp"}>
+            <Link to={"http://localhost:5173/farmer-validation"}>
               <button className="w-full py-2 px-4 bg-green-600 text-white font-semibold rounded-md hover:bg-green-700 transition duration-200 text-lg">
-                Sign Up & Assign Roles
+                Sign Up & Manage
               </button>
             </Link>
             <p className="mt-4 text-gray-600">
               Already have an account?{" "}
               <Link
-                to={"/Recipient/RecipientLogin"}
+                to={"http://localhost:5173/farmer-validation"}
                 className="text-green-600 hover:underline font-medium"
               >
                 Login & Manage

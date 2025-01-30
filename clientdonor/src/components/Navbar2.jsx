@@ -15,7 +15,7 @@ function Navbar2() {
         <div className="flex items-center justify-between h-16">
           <div className="flex gap-4 items-center">
             <img src={Image} alt="Logo" className="h-12 w-auto" />
-            <span className="text-2xl font-bold text-gray-800">AaharSetu </span>
+            <span className="text-2xl font-bold text-gray-800"> AnnaYojana </span>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
                 <Link to="/homer" className="hover:bg-green-500 hover:text-white px-3 py-2 rounded-md text-lg font-medium">Home</Link>
